@@ -11,7 +11,7 @@ python3 ../backtest.py  -sf ./CTA_setting.json   -m B -d 2000 -s rb000
 <center>
 
 
-![](./dailyResult.png)
+![](quant_report/dailyResult.png)
 
 ```
 --------------------------------------------------
